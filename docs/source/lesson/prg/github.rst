@@ -117,8 +117,7 @@ command.
 Branch
 ------
 
-Branches are an excellent way to not only work safely on features or
-experiments, but they are also the key element in creating Pull
+Branches are an excellent way to not only work safely on features orexperiments, but they are also the key element in creating Pull
 Requests on GitHub. Let's take a look at why we want branches, how to
 create and delete branches, and how to switch branches in this
 episode.
@@ -177,5 +176,5 @@ Github.3:
   branch?
 
 Github.4:
-  Find a spelling error in theo Web page or a contribution and create
+  Find a spelling error in the Web page or a contribution and create
   a pull request for it.
